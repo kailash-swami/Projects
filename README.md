@@ -1,1 +1,1 @@
-Simple C++ projects to begin with and clear some basic concepts.
+Simple C++ projects to begin with to clear some basic concepts.
